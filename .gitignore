@@ -1,0 +1,9 @@
+# Operating system and editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.tmp
+
+# Transient logs; retain reviewed assessment evidence explicitly
+*.log
