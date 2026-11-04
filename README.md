@@ -1,4 +1,4 @@
-Network Vulnerability Assessment
++Network Vulnerability Assessment
 
 A defensive assessment project for an intentionally vulnerable target in an isolated virtual lab. The repository provides lab setup guidance, an evidence-handling structure, and a report template; it does not contain scan results.
 
